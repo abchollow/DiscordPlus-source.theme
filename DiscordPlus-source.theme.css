@@ -847,7 +847,7 @@ padding: var(--dplus-spacing-ui);
 .withFrame-haYltI {
 	margin-top: var(--dplus-spacing-app);
 }
-.wordmark-2iDDfm svg {display: none;}
+.wordmark-2iDDfm svg {display: block;}
 .winButton-iRh8-Z {
 	height: 24px;
 	top: 2px;
